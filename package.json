@@ -1,0 +1,18 @@
+{
+  "name": "vuejs-basic-kit",
+  "description": "Basic vuejs components shared between several personals projects.",
+  "author": "Olivier PRUDENTE",
+  "license": "MIT",
+  "version": "1.0.0",
+  "keywords": [
+    "stanejoun"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
